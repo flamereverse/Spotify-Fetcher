@@ -4,7 +4,6 @@
 
 **Fast, async, self-hostable Spotify → local library archiver.**
 
-[![CI](https://github.com/you/spotfetch/actions/workflows/ci.yml/badge.svg)](https://github.com/you/spotfetch/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Docker](https://img.shields.io/badge/ghcr.io-spotfetch-2496ED?logo=docker&logoColor=white)](https://ghcr.io)
 
